@@ -26,13 +26,3 @@ A feature-rich **Employee Management System** backend project built with **Sprin
 
 ---
 
-## 🖼️ Project Logo
-<img src="https://via.placeholder.com/600x150.png?text=Employee+Management+System+Logo" alt="Project Logo" width="600" />
-
----
-
-## 🚀 Getting Started
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/yourusername/employee-management-system.git
